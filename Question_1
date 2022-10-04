@@ -9,7 +9,6 @@ main()
         printf(" x does not equal 1");
     return 0;
 }
-```
 
  // Edited Code
 
