@@ -1,0 +1,25 @@
+/* a program with problems... */
+#include <stdio.h>
+int x= 1:
+main()
+{
+    if( x = 1);
+        printf(" x equals 1" );
+    otherwise
+        printf(" x does not equal 1");
+    return 0;
+}
+```
+
+ // Edited Code
+
+#include <stdio.h>
+int x= 1; // this is supposed to be a semi-colon not a colon
+main()
+{
+    if( x = 1)// here we don't include the semi-colon in if statements
+        printf(" x equals 1" );
+    else
+        printf(" x does not equal 1");
+    return 0;
+}
